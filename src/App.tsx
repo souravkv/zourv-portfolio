@@ -10,14 +10,14 @@ function App() {
 
   return (
     <>
-      <div className='  h-[screen] w-screen'>
+      <div className='   w-screen'>
 
         <Header />
         <Hero />
         <Footer />
 
 
-        {/* <Foooter/>  */}
+
       </div>
     </>
   )
