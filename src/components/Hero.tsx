@@ -5,7 +5,7 @@ import img3 from '../assets/spotx.png';
 export default function Hero() {
     return (
         <>
-            <div className=' '>
+            <div className=' text-gray-500 '>
                 <div className="p-8 text-gray-500 md:mb-10">
                     <div className="font-thin text-5xl md:text-[22vh] ">Welcome to my portfolio</div>
                 </div>

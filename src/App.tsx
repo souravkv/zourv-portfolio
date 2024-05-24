@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div className='   w-screen'>
+      <div className='  h-[120vh] md:h-full  md:w-screen bg-cover bg-[url(https://64.media.tumblr.com/d823abd644fa478fb244bd5a96e4ed12/tumblr_obfjz6Bd9f1runoqyo1_540.gif)]   '>
 
         <Header />
         <Hero />
