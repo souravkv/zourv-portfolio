@@ -1,4 +1,4 @@
-import img1 from '../assets/zourv.png';
+
 import { useState, useEffect, useRef } from 'react';
 import Profile from './Profile';
 import { gsap } from 'gsap';
